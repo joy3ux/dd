@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "edge.api.myqnapcloud.com",
+        "edge.myqnapcloud.io"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".myqnapcloud.com",
+        ".myqnapcloud.io"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "myqnapcloud",
+        "myqnap"
+      ]
+    },
+  ]
+}
